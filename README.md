@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-Hello! I am a rising sophomore studying Computer Science at Rutgers University. Currently I have experience with languages such as Java and Python and am learning Javascript and React. I also have interests in Web3 and Blockchain technology and I am seeking internships in any field of software!
+Hello! I am a rising Junior studying Computer Science at Rutgers University. Currently I have experience with languages such as Java and Python and am learning Javascript and React. I also have interests in Web3 and Blockchain technology and I am seeking internships in any field of software!
 
 * 🌍  I'm based in New York/New Jersey
 * ✉️  You can contact me at [rohansingit6@gmail.com](mailto:rohansingit6@gmail.com)
